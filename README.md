@@ -1,4 +1,4 @@
-# Vite unsplash images
+# Vite Unsplash Images
 
-[Working Application - Deployed](vite-unsplash-image.netlify.app)
+vite-unsplash-image.netlify.app
 
